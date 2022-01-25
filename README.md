@@ -36,6 +36,7 @@
         <ul>
           <li>
             <h2><a href="#">Some text</a></h2>
+            <img src="" alt="some image">
             <span>UK politics</span>
           </li>
         </ul>
