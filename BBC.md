@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>BBC News</title>
   </head>
   <body>
       <header>
-        <img src="" alt="logo">
+        <img src="" alt="BBC logo">
         <form action="">
-            <input type="text">
+            <input type="Search">
         </form>
         <nav>
           <ul>
@@ -33,13 +33,30 @@
         <img src="" alt="picture of army soldiers">
       </section>
       <section>
+        <h3>PM birthday event held in No 10 during lockdown</h3>
+        <span>UK Politics</span>
+        <img src="" alt="description of image here">
+        <section>
+          <h3>Military says it has seized power in Burkina Faso</h3>
+          <span>Africa</span>
+          <img src="" alt="description of image here">
+        </section>
+        <section>
+          <h3>The world's most influential actor</h3>
+          <span>Culture</span>
+          <img src="" alt="description of image here">
+        </section>
+        <section>
+          <h3>Asia's new love of forest schools</h3>
+          <span>Future</span>
+          <img src="" alt="description of image here">
+        </section>
         <ul>
           <li>
-            <h2><a href="#">Some text</a></h2>
-            <img src="" alt="some image">
-            <span>UK politics</span>
+
           </li>
         </ul>
       </section>
   </body>
 </html>
+
